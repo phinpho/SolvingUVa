@@ -1,0 +1,2 @@
+class BlockNotFound(Exception):
+    pass
